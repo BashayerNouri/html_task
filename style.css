@@ -10,7 +10,7 @@ body {
 
 .fa {
   padding: 10px;
-  font-size: 30px;
+  font-size: 27px;
   width: 30px;
   text-align: center;
   text-decoration: none;
@@ -22,10 +22,13 @@ body {
     opacity: 0.7;
 }
 
-.fa-github {
+.fa-github, .fa-envelope {
   background: rgb(108,99,255);
   color: white;
 }
+
+
+
 
 div.box-one,div.box-two,div.box-three {
   height: 300px;
